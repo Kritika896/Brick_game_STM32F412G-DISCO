@@ -1,5 +1,7 @@
 #  Brick Game using Embedded Wizard on STM32F412G-DISCO
 
+![Brick game](brick-game.png)
+
 ##  Overview
 This project is a simple brick-breaking game built for the **STM32F412G-DISCO** board using **Embedded Wizard**. The player controls a paddle at the bottom of the screen. A ball bounces off the paddle and breaks bricks at the top. Each successful collision with a brick increases the score.
 
